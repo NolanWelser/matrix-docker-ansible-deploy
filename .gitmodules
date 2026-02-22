@@ -1,0 +1,3 @@
+[submodule "inventory"]
+	path = inventory
+	url = https://github.com/NolanWelser/matrix-docker-ansible-deploy-inventory.git
